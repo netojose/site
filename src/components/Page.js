@@ -5,7 +5,7 @@ const { colors } = require('../variables')
 const SocialMeta = require('./SocialMeta')
 
 css.global('*', { fontFamily: "'Lato', sans-serif", boxSizing: 'border-box' })
-css.global('body', { margin: 0, paddingTop: 100 })
+css.global('body', { margin: 0, paddingTop: 100, scrollBehavior: 'smooth' })
 css.insert('@media print{body{padding-top: 0}}')
 css.global('img', { userSelect: 'none' })
 css.global('p, a', { fontSize: 16, lineHeight: 1.56, color: colors.secondary })
