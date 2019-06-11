@@ -11,7 +11,7 @@ module.exports = () => (
     >
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
-                title="Front-end Engineer"
+                title="Aubay consultant - Front-end Engineer"
                 subtitle="TripAdvisor"
                 start="Oct, 2018"
                 end="Present"
@@ -19,7 +19,7 @@ module.exports = () => (
                 image="/assets/images/exp-trip-advisor.jpg"
             />
             <ExperiencesList.Item
-                title="Front-end Engineer"
+                title="Aubay consultant - Front-end Engineer"
                 subtitle="OLX"
                 start="Sep, 2017"
                 end="Sep, 2018"
