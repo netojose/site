@@ -21,6 +21,16 @@ module.exports = ({ children, title, css = '', js = '' }) => (
                 content="width=device-width, initial-scale=1, shrink-to-fit=no"
             />
             <link
+                rel="shortcut icon"
+                href="/assets/images/favicon.ico"
+                type="image/x-icon"
+            />
+            <link
+                rel="icon"
+                href="/assets/images/favicon.ico"
+                type="image/x-icon"
+            />
+            <link
                 rel="stylesheet"
                 href="https://fonts.googleapis.com/css?family=Lato|Roboto"
             />
