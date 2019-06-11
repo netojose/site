@@ -33,7 +33,7 @@ module.exports = () => (
             <ExperiencesList.Item
                 title="Laravel 4 Bing Translation"
                 link="https://github.com/netojose/laravel-4-bing-translation"
-                description="Translate texts using Big API"
+                description="Translate texts using Bing API"
             />
         </ExperiencesList.Wrapper>
     </Topic>

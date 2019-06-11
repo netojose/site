@@ -88,15 +88,8 @@ module.exports = () => (
                                 display: 'block'
                             },
                             ':after': hamburguerLine,
-                            ':hover:after': {
-                                transform: 'translateY(-12px) rotate(-135deg)'
-                            },
                             ':before': hamburguerLine,
-                            ':hover:before': {
-                                transform: 'translateY(12px) rotate(135deg)'
-                            },
-                            ' div': hamburguerLine,
-                            ':hover div': { transform: 'scale(0)' }
+                            ' div': hamburguerLine
                         })}
                     >
                         <div />
