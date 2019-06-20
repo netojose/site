@@ -28,6 +28,8 @@ module.exports = {
                     src={image}
                     alt={title}
                     draggable="false"
+                    width={60}
+                    height={60}
                     className={css({
                         width: 60,
                         height: 60,
