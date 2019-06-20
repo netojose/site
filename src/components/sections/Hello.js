@@ -80,6 +80,12 @@ module.exports = () => (
                                 sputinykster@gmail.com
                             </a>
                         ],
+                        [
+                            'Website',
+                            <a href="https://joseneto.dev">
+                                https://joseneto.dev
+                            </a>
+                        ],
                         ['Address', 'Lisbon, Portugal']
                     ]}
                 />
