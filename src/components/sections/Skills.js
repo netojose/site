@@ -44,6 +44,7 @@ module.exports = () => (
                 title="Back-end - Node.js frameworks & libraries"
                 description={[
                     'Express',
+                    'Puppeteer',
                     'Socket.IO',
                     'Sequelize',
                     'Swagger for Node.js',
