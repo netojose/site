@@ -12,8 +12,8 @@ module.exports = () => (
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
                 title="Laravel bootstrap forms 4"
-                link="https://google.com"
-                description="Are you working on something great? I would love to help"
+                link="https://github.com/netojose/laravel-bootstrap-4-forms"
+                description="Laravel 5 package forms for bootstrap 4"
             />
             <ExperiencesList.Item
                 title="Laravel 5 API REST explorer"
