@@ -16,6 +16,11 @@ module.exports = () => (
                 description="Laravel 5 package forms for bootstrap 4"
             />
             <ExperiencesList.Item
+                title="React Modal"
+                link="https://github.com/netojose/react-modal"
+                description="A lightweight dialog component for React"
+            />
+            <ExperiencesList.Item
                 title="Laravel 5 API REST explorer"
                 link="https://github.com/netojose/laravel-api-explorer"
                 description="API explorer for laravel applications"
