@@ -101,6 +101,10 @@ module.exports = () => (
                 ]}
             />
             <ExperiencesList.Item
+                title="Prototyping"
+                description={['Sketch', 'InVision', 'Zeplin']}
+            />
+            <ExperiencesList.Item
                 title="Version control"
                 description={['GIT', 'SVN', 'CVS']}
             />
