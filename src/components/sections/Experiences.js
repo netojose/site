@@ -11,10 +11,18 @@ module.exports = () => (
     >
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
+                title="Clevertech consultant - Front-end Engineer"
+                subtitle="Clevertech"
+                start="Jul, 2019"
+                end="Present"
+                description="Working on Clevertech clients, using React, Redux, and correlated technologies."
+                image="/assets/images/exp-clevertech.jpg"
+            />
+            <ExperiencesList.Item
                 title="Aubay consultant - Front-end Engineer"
                 subtitle="TripAdvisor"
                 start="Oct, 2018"
-                end="Present"
+                end="Jul, 2019"
                 description="Working on internal tools and projects for the hotel's segment, using React, Redux, and correlated technologies, migrating legacy technologies to a new stack, or adding new features on current products."
                 image="/assets/images/exp-trip-advisor.jpg"
             />
