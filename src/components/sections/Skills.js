@@ -14,22 +14,22 @@ module.exports = () => (
                 title="Programming/Markup/Stylesheet/Notation languages"
                 description={[
                     'Javascript [ES5, ES6, ES7, ES8] (Browser and Node.js)',
+                    'TypeScript',
                     'PHP',
                     'Dart',
-                    'TypeScript',
                     'CSS2/CSS3',
                     'JSON',
-                    'XHTML'
+                    'XHTML',
+                    'JSX'
                 ]}
             />
             <ExperiencesList.Item
                 title="Preprocessors/Static type checkers"
-                description={['JSX', 'Flow', 'SASS', 'Compass', 'LESS']}
+                description={['Flow', 'SASS', 'Compass', 'LESS']}
             />
             <ExperiencesList.Item
                 title="Back-end - PHP frameworks & libraries"
                 description={[
-                    'PHP',
                     'Laravel',
                     'Lumen',
                     'CodeIgniter',
@@ -64,6 +64,7 @@ module.exports = () => (
                     'Vuex',
                     'jQuery',
                     'Axios',
+                    'Lodash',
                     'Bootstrap',
                     'Materialize',
                     'Material-UI',
@@ -81,21 +82,21 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Linting/Code Quality Tool"
-                description={['Eslint', 'JSLint', 'PHP_CodeSniffer']}
+                description={['Eslint', 'JSLint', 'Standard JS', 'PHP_CodeSniffer']}
             />
             <ExperiencesList.Item
                 title="Query languages"
-                description={['SQL', 'NoSQL', 'GraphQL']}
+                description={['SQL', 'ReQL', 'MongoDB Queries', 'GraphQL']}
             />
             <ExperiencesList.Item
                 title="Databases"
                 description={[
                     'MySQL',
+                    'RethinkDB',
                     'MariaDB',
                     'PostgreSQL',
                     'MongoDB',
                     'Redis',
-                    'Firebird',
                     'MSSQL',
                     'SQLite'
                 ]}
