@@ -76,8 +76,8 @@ module.exports = () => (
                         ],
                         [
                             'Email',
-                            <a href="mailto:sputinykster@gmail.com">
-                                sputinykster@gmail.com
+                            <a href="mailto:contact@joseneto.dev">
+                                contact@joseneto.dev
                             </a>
                         ],
                         [
@@ -105,7 +105,7 @@ module.exports = () => (
                     >
                         Download CV
                     </ButtonLink>
-                    <ButtonLink primary href="mailto:sputinykster@gmail.com">
+                    <ButtonLink primary href="mailto:contact@joseneto.dev">
                         Contact
                     </ButtonLink>
                 </p>
