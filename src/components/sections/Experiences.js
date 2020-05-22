@@ -15,7 +15,7 @@ module.exports = () => (
                 subtitle="Clevertech"
                 start="Jul, 2019"
                 end="Present"
-                description="Working on Clevertech clients, using React, Redux, and correlated technologies."
+                description="Working on Clevertech clients, using React, Redux, and related technologies."
                 image="/assets/images/exp-clevertech.jpg"
             />
             <ExperiencesList.Item
