@@ -17,7 +17,7 @@ module.exports = () => (
                     'TypeScript',
                     'PHP',
                     'Dart',
-                    'CSS2/CSS3',
+                    'CSS3',
                     'JSON',
                     'XHTML',
                     'JSX'
@@ -52,7 +52,8 @@ module.exports = () => (
                     'Next.js',
                     'After.js',
                     'Gatsby',
-                    'Pug'
+                    'Pug',
+                    'EJS'
                 ]}
             />
             <ExperiencesList.Item
@@ -103,7 +104,7 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Prototyping"
-                description={['Sketch', 'InVision', 'Zeplin']}
+                description={['Figma', 'Zeplin', 'Adobe XD', 'Sketch', 'InVision']}
             />
             <ExperiencesList.Item
                 title="Version control"
