@@ -16,14 +16,24 @@ module.exports = () => (
                 description="Laravel 5 package forms for bootstrap 4"
             />
             <ExperiencesList.Item
-                title="React Modal"
-                link="https://github.com/netojose/react-modal"
-                description="A lightweight dialog component for React"
-            />
-            <ExperiencesList.Item
                 title="Laravel 5 API REST explorer"
                 link="https://github.com/netojose/laravel-api-explorer"
                 description="API explorer for laravel applications"
+            />
+            <ExperiencesList.Item
+                title="Google Maps Places Autocomplete React component"
+                link="https://github.com/netojose/react-google-places-typeahead"
+                description="A React component to build a customized UI for Google Maps Places Autocomplete"
+            />
+            <ExperiencesList.Item
+                title="React Select date picker"
+                link="https://github.com/netojose/react-select-datepicker"
+                description="A simple React date picker besed on selet fields"
+            />
+            <ExperiencesList.Item
+                title="React Modal"
+                link="https://github.com/netojose/react-modal"
+                description="A lightweight dialog component for React"
             />
             <ExperiencesList.Item
                 title="My site"
