@@ -7,7 +7,7 @@ module.exports = () => (
     <Topic
         id="skills"
         title="Skills"
-        description="I already worked on a lot of projects, with the most different technologies to solve the most different kind of problems, always trying to find who is the best technology to solve each problem. I'm also studying new technologies each week. So this list is in constant changing."
+        description="I already worked on a lot of projects, with the most different technologies to solve the most different kinds of problems, always trying to find who is the best technology to solve each problem. I'm also studying new technologies each week. So this list is in constant changing."
     >
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
