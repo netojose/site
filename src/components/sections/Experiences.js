@@ -63,7 +63,7 @@ module.exports = () => (
                 subtitle="Grupo Ser Educacional"
                 start="Oct, 2008"
                 end="Feb, 2012"
-                description="As a back-end developer, I worked on some educational software inside of this company. With more than 100.000 students around the country, the educational group needed software to the handle library books and books reservations, control financial data, students make enrollment,  paying his monthly tuition, entrance exams, etc."
+                description="As a back-end developer, I worked on some educational software inside of this company. With more than 100.000 students around the country, the educational group needed software to the handle library books and books reservations, control financial data, students make enrolment,  paying his monthly tuition, entrance exams, etc."
                 image="/assets/images/exp-ser-educacional.jpg"
             />
         </ExperiencesList.Wrapper>
