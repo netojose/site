@@ -14,7 +14,7 @@ module.exports = () => (
                 title="Clevertech consultant - Front-end Engineer"
                 subtitle="Clevertech"
                 start="Jul, 2019"
-                end="Present"
+                end="May, 2020"
                 description="Working on Clevertech clients, using React, Redux, and related technologies."
                 image="/assets/images/exp-clevertech.jpg"
             />
