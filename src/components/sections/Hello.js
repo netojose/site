@@ -71,13 +71,19 @@ module.exports = () => (
                 <Dl
                     items={[
                         [
+                            'Email',
+                            <a href="mailto:contact@joseneto.dev">
+                                contact@joseneto.dev
+                            </a>
+                        ],
+                        [
                             'Phone',
                             <a href="tel:+351 935 281 144">+351 935 281 144</a>
                         ],
                         [
-                            'Email',
-                            <a href="mailto:contact@joseneto.dev">
-                                contact@joseneto.dev
+                            'GitHub',
+                            <a href="https://github.com/netojose">
+                                netojose
                             </a>
                         ],
                         [
