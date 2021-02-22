@@ -65,7 +65,7 @@ module.exports = () => (
                 </h2>
                 <p>
                     I'm a <strong>Software Engineer</strong> located in Lisbon,
-                    Portugal. Passionate web developer, with over 13 years of
+                    Portugal. Passionate web developer, with over 14 years of
                     experience.
                 </p>
                 <Dl
