@@ -46,7 +46,9 @@ module.exports = () => (
                     'Express',
                     'Puppeteer',
                     'Socket.IO',
+                    'TypeORM',
                     'Sequelize',
+                    'TypeGraphQL',
                     'Swagger for Node.js',
                     'AdonisJs',
                     'Next.js',
@@ -55,6 +57,10 @@ module.exports = () => (
                     'Pug',
                     'EJS'
                 ]}
+            />
+            <ExperiencesList.Item
+                title="API construction"
+                description={['REST', 'GraphQL']}
             />
             <ExperiencesList.Item
                 title="Front-end- Frameworks & Libraries"
@@ -74,7 +80,8 @@ module.exports = () => (
                     'Glamorous',
                     'JSS',
                     'Styled components',
-                    'Emotion'
+                    'Emotion',
+                    'Styletron'
                 ]}
             />
             <ExperiencesList.Item
@@ -87,7 +94,7 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Query languages"
-                description={['SQL', 'ReQL', 'MongoDB Queries', 'GraphQL']}
+                description={['GraphQL', 'SQL', 'ReQL', 'MongoDB Queries']}
             />
             <ExperiencesList.Item
                 title="Databases"
@@ -104,7 +111,7 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Prototyping"
-                description={['Figma', 'Zeplin', 'Adobe XD', 'Sketch', 'InVision']}
+                description={['Figma', 'Zeplin', 'Adobe XD', 'InVision']}
             />
             <ExperiencesList.Item
                 title="Version control"
@@ -130,7 +137,7 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Dependency managers"
-                description={['Composer', 'Yarn', 'Npm', 'Bower']}
+                description={['Yarn', 'Npm', 'Composer']}
             />
             <ExperiencesList.Item
                 title="Module bundlers & Task runners"
@@ -152,7 +159,6 @@ module.exports = () => (
                 description={[
                     'Babel',
                     'Storybook',
-                    'REST',
                     'MVC',
                     'ORM',
                     'OOP',
@@ -170,7 +176,7 @@ module.exports = () => (
                     'Web standards',
                     'Performance',
                     'Usability',
-                    'Accessibility',
+                    'Accessibility - a11y',
                     'SEO'
                 ]}
             />
