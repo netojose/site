@@ -81,7 +81,8 @@ module.exports = () => (
                     'JSS',
                     'Styled components',
                     'Emotion',
-                    'Styletron'
+                    'Styletron',
+                    'Stitches'
                 ]}
             />
             <ExperiencesList.Item
