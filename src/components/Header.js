@@ -157,7 +157,7 @@ module.exports = () => (
                         <MenuItem target="experience" text="Experience" />
                         <MenuItem target="courses" text="Courses" />
                         <MenuItem target="open-source" text="Open source" />
-                        <MenuItem target="portfolio" text="Portfolio" />
+                        {/* <MenuItem target="portfolio" text="Portfolio" /> */}
                     </ul>
                 </Grid.Column>
             </Grid.Row>
