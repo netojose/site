@@ -40,16 +40,16 @@ module.exports = () => (
                 link="https://github.com/netojose/site"
                 description="Source code used for this webSource code for my personal website"
             />
-            <ExperiencesList.Item
+            {/* <ExperiencesList.Item
                 title="Docker environment for Lumen (micro-framework by Laravel)"
                 link="https://github.com/netojose/docker-lumen"
                 description="Docker orchestration provisioning all necessary tools for work with Lumen"
-            />
-            <ExperiencesList.Item
+            /> */}
+            {/* <ExperiencesList.Item
                 title="Laravel 4 Bing Translation"
                 link="https://github.com/netojose/laravel-4-bing-translation"
                 description="Translate texts using Bing API"
-            />
+            /> */}
         </ExperiencesList.Wrapper>
     </Topic>
 )
