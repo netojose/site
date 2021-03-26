@@ -38,7 +38,7 @@ module.exports = () => (
                 title="Tech Lead & Full Stack Developer"
                 subtitle="Planedia"
                 start="Jun, 2013"
-                end="Jul, 2018"
+                end="Jul, 2017"
                 description="I worked on this startup since it was founded, working as a back-end, using PHP & Laravel. Sometime later, I switched for a front-end position, working with React & Redux. I also helped with the recruiting process to get new developers and taking technical decisions."
                 image="/assets/images/exp-planedia.jpg"
             />
