@@ -106,7 +106,7 @@ module.exports = () => (
                     })}
                 >
                     <ButtonLink
-                        href="/assets/docs/jose-neto-cv.pdf"
+                        href={`/assets/docs/jose-neto-cv.pdf?v=${Date.now()}`}
                         download="jose-neto-cv.pdf"
                     >
                         Download CV
