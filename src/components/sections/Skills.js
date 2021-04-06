@@ -121,11 +121,10 @@ module.exports = () => (
             <ExperiencesList.Item
                 title="Test tools"
                 description={[
+                    'Cypress',
                     'Jest',
                     'Enzyme',
-                    'Jasmine',
-                    'PHPUnit',
-                    'Selenium'
+                    'PHPUnit'
                 ]}
             />
             <ExperiencesList.Item
