@@ -11,11 +11,11 @@ module.exports = () => (
     >
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
-                title="Clevertech consultant - Front-end Engineer"
+                title="Clevertech consultant - Software Engineer"
                 subtitle="Clevertech"
                 start="Jul, 2019"
                 end="May, 2020"
-                description="Working on Clevertech clients, using React, Redux, and related technologies."
+                description="Working on Clevertech clients, with JavaScript/TypeScript."
                 image="/assets/images/exp-clevertech.jpg"
             />
             <ExperiencesList.Item
@@ -27,11 +27,11 @@ module.exports = () => (
                 image="/assets/images/exp-trip-advisor.jpg"
             />
             <ExperiencesList.Item
-                title="Aubay consultant - Front-end Engineer"
+                title="Aubay consultant - Software Engineer"
                 subtitle="OLX"
                 start="Sep, 2017"
                 end="Sep, 2018"
-                description="Front End engineer at OLX, working on a product for premium sellers on a vertical platform focused on cars sales in some European countries (Standvirtual in Portugal, Autovit in Romania, and Otomoto on Poland). The challenge here was to maintain legacy software (monolithic architecture, classical MVC with PHP) and at the same time work with new technologies (SPA, PWA, microservices architecture, etc.), migrating parts of the product and keeping some points as a priority, like SEO."
+                description="Software Engineer at OLX, working on a product for premium sellers on a vertical platform focused on cars sales in some European countries (Standvirtual in Portugal, Autovit in Romania, and Otomoto on Poland). The challenge here was to maintain legacy software (monolithic architecture, classical MVC with PHP) and at the same time work with new technologies (SPA, SSR, PWA, microservices architecture, etc.), migrating parts of the product ftom the legacy to the new platform, keeping in mind important items, like SEO."
                 image="/assets/images/exp-olx.jpg"
             />
             <ExperiencesList.Item
@@ -39,7 +39,7 @@ module.exports = () => (
                 subtitle="Planedia"
                 start="Jun, 2013"
                 end="Jul, 2017"
-                description="I worked on this startup since it was founded, working as a back-end, using PHP & Laravel. Sometime later, I switched for a front-end position, working with React & Redux. I also helped with the recruiting process to get new developers and taking technical decisions."
+                description="I worked on this startup since it was founded, working as a back-end, using Node.js/express/MongoDB, PHP/Laravel/MySQL and sometimes, at the front-end position, working with React & Redux. I also helped with the recruiting process to get new developers and taking technical decisions."
                 image="/assets/images/exp-planedia.jpg"
             />
             <ExperiencesList.Item

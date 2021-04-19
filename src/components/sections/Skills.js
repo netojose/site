@@ -24,23 +24,6 @@ module.exports = () => (
                 ]}
             />
             <ExperiencesList.Item
-                title="Preprocessors/Static type checkers"
-                description={['Flow', 'SASS', 'Compass', 'LESS']}
-            />
-            <ExperiencesList.Item
-                title="Back-end - PHP frameworks & libraries"
-                description={[
-                    'Laravel',
-                    'Lumen',
-                    'CodeIgniter',
-                    'Slim Framework',
-                    'BotMan',
-                    'Smarty',
-                    'Twig',
-                    'Swagger for PHP'
-                ]}
-            />
-            <ExperiencesList.Item
                 title="Back-end - Node.js frameworks & libraries"
                 description={[
                     'Express',
@@ -59,8 +42,78 @@ module.exports = () => (
                 ]}
             />
             <ExperiencesList.Item
+                title="Back-end - PHP frameworks & libraries"
+                description={[
+                    'Laravel',
+                    'Lumen',
+                    'CodeIgniter',
+                    'Slim Framework',
+                    'BotMan',
+                    'Smarty',
+                    'Twig',
+                    'Swagger for PHP'
+                ]}
+            />
+            <ExperiencesList.Item
                 title="API construction"
                 description={['REST', 'GraphQL']}
+            />
+            <ExperiencesList.Item
+                title="Query languages"
+                description={['GraphQL', 'SQL', 'ReQL', 'MongoDB Queries']}
+            />
+            <ExperiencesList.Item
+                title="Databases"
+                description={[
+                    'MySQL',
+                    'RethinkDB',
+                    'MariaDB',
+                    'PostgreSQL',
+                    'MongoDB',
+                    'Redis',
+                    'MSSQL',
+                    'SQLite'
+                ]}
+            />
+            <ExperiencesList.Item
+                title="REST API description tool"
+                description={['Swagger', 'Blueprint', 'Apiary']}
+            />
+            <ExperiencesList.Item
+                title="Work/Deployment environment"
+                description={[
+                    'Docker',
+                    'Vagrant',
+                    'Heroku',
+                    'Digital Ocean',
+                    'Linode',
+                    'Generic shared hosts'
+                ]}
+            />
+            <ExperiencesList.Item
+                title="Test tools"
+                description={[
+                    'Cypress',
+                    'Jest',
+                    'Enzyme',
+                    'PHPUnit'
+                ]}
+            />
+            <ExperiencesList.Item
+                title="Dependency managers"
+                description={['Yarn', 'Npm', 'Composer']}
+            />
+            <ExperiencesList.Item
+                title="Module bundlers & Task runners"
+                description={['Webpack', 'Gulp']}
+            />
+            <ExperiencesList.Item
+                title="Version control"
+                description={['GIT', 'SVN', 'CVS']}
+            />
+            <ExperiencesList.Item
+                title="Preprocessors/Static type checkers"
+                description={['Flow', 'SASS', 'Compass', 'LESS']}
             />
             <ExperiencesList.Item
                 title="Front-end- Frameworks & Libraries"
@@ -94,65 +147,12 @@ module.exports = () => (
                 description={['Eslint', 'JSLint', 'Standard JS', 'PHP_CodeSniffer']}
             />
             <ExperiencesList.Item
-                title="Query languages"
-                description={['GraphQL', 'SQL', 'ReQL', 'MongoDB Queries']}
-            />
-            <ExperiencesList.Item
-                title="Databases"
-                description={[
-                    'MySQL',
-                    'RethinkDB',
-                    'MariaDB',
-                    'PostgreSQL',
-                    'MongoDB',
-                    'Redis',
-                    'MSSQL',
-                    'SQLite'
-                ]}
-            />
-            <ExperiencesList.Item
                 title="Prototyping"
                 description={['Figma', 'Zeplin', 'Adobe XD', 'InVision']}
             />
             <ExperiencesList.Item
-                title="Version control"
-                description={['GIT', 'SVN', 'CVS']}
-            />
-            <ExperiencesList.Item
-                title="Test tools"
-                description={[
-                    'Cypress',
-                    'Jest',
-                    'Enzyme',
-                    'PHPUnit'
-                ]}
-            />
-            <ExperiencesList.Item
-                title="REST API description tool"
-                description={['Swagger', 'Blueprint', 'Apiary']}
-            />
-            <ExperiencesList.Item
                 title="CMS"
                 description={['WordPress (plugins, themes and widgets)']}
-            />
-            <ExperiencesList.Item
-                title="Dependency managers"
-                description={['Yarn', 'Npm', 'Composer']}
-            />
-            <ExperiencesList.Item
-                title="Module bundlers & Task runners"
-                description={['Webpack', 'Gulp']}
-            />
-            <ExperiencesList.Item
-                title="Work/Deployment environment"
-                description={[
-                    'Docker',
-                    'Vagrant',
-                    'Heroku',
-                    'Digital Ocean',
-                    'Linode',
-                    'Generic shared hosts'
-                ]}
             />
             <ExperiencesList.Item
                 title="Others"
