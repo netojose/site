@@ -11,14 +11,14 @@
     "license": "ISC",
     "dependencies": {},
     "devDependencies": {
-        "@babel/cli": "^7.8.4",
-        "@babel/core": "^7.9.6",
-        "@babel/node": "^7.8.7",
-        "@babel/preset-react": "^7.9.4",
-        "babel-loader": "^8.1.0",
+        "@babel/cli": "^7.13.14",
+        "@babel/core": "^7.13.15",
+        "@babel/node": "^7.13.13",
+        "@babel/preset-react": "^7.13.13",
+        "babel-loader": "^8.2.2",
         "glamor": "^2.20.40",
-        "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "uglify-js": "^3.9.3"
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "uglify-js": "^3.13.4"
     }
 }
