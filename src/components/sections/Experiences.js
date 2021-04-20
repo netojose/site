@@ -11,6 +11,14 @@ module.exports = () => (
     >
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
+                title="CTO"
+                subtitle="Delloop"
+                start="Feb, 2020"
+                end="Currently"
+                description="Building the Delloop product with TypeScript and GraphQL, and the mobile app with Flutter> Also coordinating the web team."
+                image="/assets/images/exp-delloop.jpg"
+            />
+            <ExperiencesList.Item
                 title="Clevertech consultant - Software Engineer"
                 subtitle="Clevertech"
                 start="Jul, 2019"
