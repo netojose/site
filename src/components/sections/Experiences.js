@@ -21,16 +21,24 @@ module.exports = () => (
             <ExperiencesList.Item
                 title="Clevertech consultant - Software Engineer"
                 subtitle="Clevertech"
-                start="Jul, 2019"
+                start="Aug, 2019"
                 end="May, 2020"
                 description="Working on Clevertech clients, with JavaScript/TypeScript."
                 image="/assets/images/exp-clevertech.jpg"
             />
             <ExperiencesList.Item
                 title="Aubay consultant - Front-end Engineer"
+                subtitle="CybSafe"
+                start="Mar, 2019"
+                end="Aug, 2019"
+                description="I worked on the main project of the company, used by the employees of the companies.  It's a gamified application aimed at educating users about security topics in the corporate environment. I was responsible for maintaining and implementing the different parts of the application (quizzes, security checklists, video player, ranking, etc.)."
+                image="/assets/images/exp-cybsafe.jpg"
+            />
+            <ExperiencesList.Item
+                title="Aubay consultant - Front-end Engineer"
                 subtitle="TripAdvisor"
                 start="Oct, 2018"
-                end="Jul, 2019"
+                end="Mar, 2019"
                 description="Working on internal tools and projects for the hotel's segment, using React, Redux, and correlated technologies, migrating legacy technologies to a new stack, or adding new features on current products."
                 image="/assets/images/exp-trip-advisor.jpg"
             />
