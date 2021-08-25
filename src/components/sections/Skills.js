@@ -32,13 +32,15 @@ module.exports = () => (
                     'TypeORM',
                     'Sequelize',
                     'TypeGraphQL',
-                    'Swagger for Node.js',
+                    'Nest',
                     'AdonisJs',
+                    'Ts.ED',
                     'Next.js',
                     'After.js',
                     'Gatsby',
                     'Pug',
-                    'EJS'
+                    'EJS',
+                    'Swagger for Node.js'
                 ]}
             />
             <ExperiencesList.Item
@@ -55,7 +57,7 @@ module.exports = () => (
                 ]}
             />
             <ExperiencesList.Item
-                title="API construction"
+                title="API construction & consumption"
                 description={['REST', 'GraphQL']}
             />
             <ExperiencesList.Item
@@ -74,10 +76,6 @@ module.exports = () => (
                     'MSSQL',
                     'SQLite'
                 ]}
-            />
-            <ExperiencesList.Item
-                title="REST API description tool"
-                description={['Swagger', 'Blueprint', 'Apiary']}
             />
             <ExperiencesList.Item
                 title="Work/Deployment environment"
