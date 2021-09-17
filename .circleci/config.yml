@@ -7,10 +7,8 @@ jobs:
   build:
     executor:
       name: node/default
-      tag: '10.4'
+      tag: '16.4.0'
     steps:
       - checkout
-      - node/with-cache:
-          steps:
-            - run: npm install
+      - run: npm install
       - run: npm run build
