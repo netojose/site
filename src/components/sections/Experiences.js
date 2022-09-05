@@ -11,6 +11,14 @@ module.exports = () => (
     >
         <ExperiencesList.Wrapper>
             <ExperiencesList.Item
+                title="Front-end Engineer"
+                subtitle="BoostUp"
+                start="Jan, 2022"
+                end="Aug, 2022"
+                description="Creating new features for BoostUp product (a B2B product focused to provide accurate forecasts for companies, based on AI). I helped to create advanced and highly customizable dashboards, tables, widgets and charts, with a international teams across different time zones."
+                image="/assets/images/exp-boostup.jpg"
+            />
+            <ExperiencesList.Item
                 title="CTO"
                 subtitle="Delloop"
                 start="Feb, 2020"

@@ -13,14 +13,14 @@ module.exports = () => (
             <ExperiencesList.Item
                 title="Programming/Markup/Stylesheet/Notation languages"
                 description={[
-                    'Javascript [ES5, ES6, ES7, ES8] (Browser and Node.js)',
+                    'Javascript [ES5, ..., ES Next] (Browser and Node.js)',
                     'TypeScript',
                     'PHP',
                     'Dart',
                     'CSS3',
                     'JSON',
                     'XHTML',
-                    'JSX'
+                    'JSX/TSX'
                 ]}
             />
             <ExperiencesList.Item
@@ -30,6 +30,7 @@ module.exports = () => (
                     'Puppeteer',
                     'Socket.IO',
                     'TypeORM',
+                    'Prisma',
                     'Sequelize',
                     'TypeGraphQL',
                     'Nest',
@@ -47,7 +48,7 @@ module.exports = () => (
                 title="Back-end - PHP frameworks & libraries"
                 description={[
                     'Laravel',
-                    'Lumen',
+                    'Laravel - Inertia',
                     'CodeIgniter',
                     'Slim Framework',
                     'BotMan',
@@ -103,7 +104,7 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Module bundlers & Task runners"
-                description={['Webpack', 'Gulp']}
+                description={['Webpack', 'Vite', 'Gulp']}
             />
             <ExperiencesList.Item
                 title="Version control"
@@ -118,6 +119,7 @@ module.exports = () => (
                 description={[
                     'React',
                     'Redux',
+                    'Zustand',
                     'Vue.js',
                     'Vuex',
                     'jQuery',
@@ -142,7 +144,7 @@ module.exports = () => (
             />
             <ExperiencesList.Item
                 title="Linting/Code Quality Tool"
-                description={['Eslint', 'JSLint', 'Standard JS', 'PHP_CodeSniffer']}
+                description={['Eslint', 'Standard JS', 'PHP_CodeSniffer']}
             />
             <ExperiencesList.Item
                 title="Prototyping"
