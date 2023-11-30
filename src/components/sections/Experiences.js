@@ -11,10 +11,18 @@ module.exports = () => (
   >
     <ExperiencesList.Wrapper>
       <ExperiencesList.Item
+        title="CTO"
+        subtitle="Praquesair"
+        start="Jan, 2022"
+        end="Now"
+        description="I was responsible to build 100% of API, and 75% of mobile apps (Android and IOS) for this startup. A marketplace for beauty and wellness used in Brazil."
+        image="/assets/images/exp-praquesair.jpg"
+      />
+      <ExperiencesList.Item
         title="Tech Lead"
         subtitle="Sodexo"
         start="Oct, 2022"
-        end="Now"
+        end="Oct, 2023"
         description="Working at solutions for food tech and services fields, maintaining web and mobile native applications used across the globe. Helping to improve and migrate legacy code, implementing new features according to product team requirements."
         image="/assets/images/exp-sodexo.jpg"
       />
