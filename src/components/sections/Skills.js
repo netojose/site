@@ -11,14 +11,14 @@ module.exports = () => (
   >
     <ExperiencesList.Wrapper>
       <ExperiencesList.Item
-        title="Programming/Markup/Stylesheet/Notation languages"
+        title="Programming/Markup/Stylesheet languages"
         description={[
           "Javascript [ES5, ..., ESNext] (Browser and Node.js)",
           "TypeScript",
           "PHP",
+          "Go",
           "Dart",
           "CSS3",
-          "JSON",
           "XHTML",
           "JSX/TSX",
         ]}
@@ -34,6 +34,8 @@ module.exports = () => (
           "Sequelize",
           "TypeGraphQL",
           "NestJS",
+          "Bull & BullMQ",
+          "class-validator",
           "AdonisJs",
           "Ts.ED",
           "Next.js",
@@ -79,12 +81,15 @@ module.exports = () => (
         title="Work/Deployment environment"
         description={[
           "Docker",
-          "Vagrant",
           "Heroku",
           "Digital Ocean",
           "Linode",
           "Generic shared hosts",
         ]}
+      />
+      <ExperiencesList.Item
+        title="AWS services"
+        description={["S3", "EC2", "SES"]}
       />
       <ExperiencesList.Item
         title="Test tools"
@@ -98,11 +103,11 @@ module.exports = () => (
       />
       <ExperiencesList.Item
         title="Dependency managers"
-        description={["Yarn", "Npm", "Composer"]}
+        description={["Yarn", "pnpm", "Npm", "Composer"]}
       />
       <ExperiencesList.Item
         title="Module bundlers & Task runners"
-        description={["Webpack", "Vite", "Gulp"]}
+        description={["Vite", "Webpack", "Gulp"]}
       />
       <ExperiencesList.Item
         title="Version control"
@@ -116,24 +121,31 @@ module.exports = () => (
         title="Front-end- Frameworks & Libraries"
         description={[
           "React",
-          "Redux",
+          "React Query",
+          "React Router",
+          "TanStack Router",
+          "React Hook Form",
+          "Zod",
           "Zustand",
+          "Redux",
+          "Jotai",
           "Vue.js",
           "Vuex",
           "jQuery",
           "Axios",
+          "Radash",
           "Lodash",
+          "i18next",
+          "date-fns",
+          "Ant Design",
           "Bootstrap",
-          "Materialize",
           "Material-UI",
           "Handlebars",
-          "Glamor",
-          "Glamorous",
-          "JSS",
+          "Panda CSS",
           "Styled components",
           "Emotion",
           "Styletron",
-          "Stitches",
+          "Tailwind CSS",
         ]}
       />
       <ExperiencesList.Item
@@ -146,7 +158,7 @@ module.exports = () => (
       />
       <ExperiencesList.Item
         title="Prototyping"
-        description={["Figma", "Zeplin", "Adobe XD", "InVision"]}
+        description={["Figma", "Zeplin", "Adobe XD"]}
       />
       <ExperiencesList.Item
         title="CMS"
