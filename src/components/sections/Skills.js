@@ -24,6 +24,41 @@ module.exports = () => (
         ]}
       />
       <ExperiencesList.Item
+        title="Front-end- Frameworks & Libraries"
+        description={[
+          "React",
+          "React Query",
+          "React Router",
+          "TanStack Router",
+          "React Hook Form",
+          "Zod",
+          "Zustand",
+          "Redux",
+          "Jotai",
+          "Vue.js",
+          "Vuex",
+          "jQuery",
+          "Axios",
+          "Radash",
+          "Lodash",
+          "i18next",
+          "date-fns",
+          "Ant Design",
+          "Bootstrap",
+          "Material-UI",
+          "Handlebars",
+          "Panda CSS",
+          "Styled components",
+          "Emotion",
+          "Styletron",
+          "Tailwind CSS",
+        ]}
+      />
+      <ExperiencesList.Item
+        title="Mobile - Frameworks & Libraries"
+        description={["React Native", "Flutter"]}
+      />
+      <ExperiencesList.Item
         title="Back-end - Node.js frameworks & libraries"
         description={[
           "Express",
@@ -58,12 +93,8 @@ module.exports = () => (
         ]}
       />
       <ExperiencesList.Item
-        title="API construction & consumption"
-        description={["REST", "GraphQL"]}
-      />
-      <ExperiencesList.Item
-        title="Query languages"
-        description={["GraphQL", "SQL", "ReQL", "MongoDB Queries"]}
+        title="Communication protocols (construction & consumption)"
+        description={["REST", "GraphQL", "WebSocket", "SSE", "gRPC"]}
       />
       <ExperiencesList.Item
         title="Databases"
@@ -103,7 +134,7 @@ module.exports = () => (
       />
       <ExperiencesList.Item
         title="Dependency managers"
-        description={["Yarn", "pnpm", "Npm", "Composer"]}
+        description={["Yarn", "pnpm", "Npm", "Composer", "Pub"]}
       />
       <ExperiencesList.Item
         title="Module bundlers & Task runners"
@@ -114,47 +145,8 @@ module.exports = () => (
         description={["GIT", "SVN", "CVS"]}
       />
       <ExperiencesList.Item
-        title="Preprocessors/Static type checkers"
-        description={["Flow", "SASS", "Compass", "LESS"]}
-      />
-      <ExperiencesList.Item
-        title="Front-end- Frameworks & Libraries"
-        description={[
-          "React",
-          "React Query",
-          "React Router",
-          "TanStack Router",
-          "React Hook Form",
-          "Zod",
-          "Zustand",
-          "Redux",
-          "Jotai",
-          "Vue.js",
-          "Vuex",
-          "jQuery",
-          "Axios",
-          "Radash",
-          "Lodash",
-          "i18next",
-          "date-fns",
-          "Ant Design",
-          "Bootstrap",
-          "Material-UI",
-          "Handlebars",
-          "Panda CSS",
-          "Styled components",
-          "Emotion",
-          "Styletron",
-          "Tailwind CSS",
-        ]}
-      />
-      <ExperiencesList.Item
-        title="Mobile - Frameworks & Libraries"
-        description={["React Native", "Flutter"]}
-      />
-      <ExperiencesList.Item
-        title="Linting/Code Quality Tool"
-        description={["Eslint", "Standard JS", "PHP_CodeSniffer"]}
+        title="Preprocessors"
+        description={["SASS", "Compass", "LESS"]}
       />
       <ExperiencesList.Item
         title="Prototyping"
@@ -167,6 +159,8 @@ module.exports = () => (
       <ExperiencesList.Item
         title="Others"
         description={[
+          "Git",
+          "Eslint",
           "Redis",
           "Babel",
           "Storybook",

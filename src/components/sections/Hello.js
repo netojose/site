@@ -76,6 +76,12 @@ module.exports = () => (
             ["Phone", <a href="tel:+351 935 281 144">+351 935 281 144</a>],
             ["GitHub", <a href="https://github.com/netojose">netojose</a>],
             [
+              "LinkedIn",
+              <a href="https://www.linkedin.com/in/josesousaneto">
+                josesousaneto
+              </a>,
+            ],
+            [
               "Website",
               <a href="https://joseneto.dev">https://joseneto.dev</a>,
             ],

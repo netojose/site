@@ -15,7 +15,7 @@ module.exports = () => (
         subtitle="Praquesair"
         start="Jan, 2022"
         end="Now"
-        description="I was responsible to build 100% of API, and 75% of mobile apps (Android and IOS) for this startup. A marketplace for beauty and wellness used in Brazil."
+        description="I was responsible for building 100% of API, and 75% of mobile apps (Android and IOS) for this startup. A marketplace for beauty and wellness used in Brazil."
         image="/assets/images/exp-praquesair.jpg"
       />
       <ExperiencesList.Item
@@ -31,24 +31,16 @@ module.exports = () => (
         subtitle="BoostUp"
         start="Jan, 2022"
         end="Aug, 2022"
-        description="Creating new features for BoostUp product (a B2B product focused to provide accurate forecasts for companies, based on AI). I helped to create advanced and highly customizable dashboards, tables, widgets and charts, with a international teams across different time zones."
+        description="Creating new features for BoostUp product (a B2B product focused to provide accurate forecasts for companies, based on AI). I helped to create advanced and highly customizable dashboards, tables, widgets and charts, with international teams across different time zones."
         image="/assets/images/exp-boostup.jpg"
       />
       <ExperiencesList.Item
         title="CTO"
         subtitle="Delloop"
-        start="Feb, 2020"
+        start="Sep, 2019"
         end="Oct, 2022"
         description="Building the Delloop product with TypeScript and GraphQL, and the mobile app with Flutter> Also coordinating the web team."
         image="/assets/images/exp-delloop.jpg"
-      />
-      <ExperiencesList.Item
-        title="Clevertech consultant - Software Engineer"
-        subtitle="Clevertech"
-        start="Aug, 2019"
-        end="May, 2020"
-        description="Working on Clevertech clients, with JavaScript/TypeScript."
-        image="/assets/images/exp-clevertech.jpg"
       />
       <ExperiencesList.Item
         title="Aubay consultant - Front-end Engineer"
@@ -63,7 +55,7 @@ module.exports = () => (
         subtitle="OLX"
         start="Sep, 2017"
         end="Sep, 2018"
-        description="Software Engineer at OLX, working on a product for premium sellers on a vertical platform focused on cars sales in some European countries (Standvirtual in Portugal, Autovit in Romania, and Otomoto on Poland). The challenge here was to maintain legacy software (monolithic architecture, classical MVC with PHP) and at the same time work with new technologies (SPA, SSR, PWA, microservices architecture, etc.), migrating parts of the product ftom the legacy to the new platform, keeping in mind important items, like SEO."
+        description="Software Engineer at OLX, working on a product for premium sellers on a vertical platform focused on cars sales in some European countries (Standvirtual in Portugal, Autovit în România, and Otomoto in Poland). The challenge here was to maintain legacy software (monolithic architecture, classical MVC with PHP) and at the same time work with new technologies (SPA, SSR, PWA, microservices architecture, etc.), migrating parts of the product from the legacy to the new platform, keeping in mind important items, like SEO."
         image="/assets/images/exp-olx.jpg"
       />
       <ExperiencesList.Item
@@ -71,7 +63,7 @@ module.exports = () => (
         subtitle="Planedia"
         start="Jun, 2013"
         end="Jul, 2017"
-        description="I worked on this startup since it was founded, working as a back-end, using Node.js/express/MongoDB, PHP/Laravel/MySQL and sometimes, at the front-end position, working with React & Redux. I also helped with the recruiting process to get new developers and taking technical decisions."
+        description="I worked on this startup since it was founded, working as a back-end, using Node.js/express/MongoDB, PHP/Laravel/MySQL and sometimes, at the front-end position, working with React & Redux. I also helped with the recruiting process to get new developers and make technical decisions."
         image="/assets/images/exp-planedia.jpg"
       />
       <ExperiencesList.Item
@@ -87,7 +79,7 @@ module.exports = () => (
         subtitle="Record TV"
         start="Jan, 2011"
         end="Mar, 2012"
-        description="I worked on the blogs team, using WordPress. Involved in dozens of projects, I created blogs and sites for soap operas, reality shows, news programs, journalists, auditorium programs, etc. My mission was creating themes, plugins, and widgets for different projects. Previously, the company has contracted external partners for creating his projects. I started on a new blogs team (I was the third member). At the end of the year, we were more than 20 members. There were no more external partners working on projects because the sites and blogs were created and maintained by our team."
+        description="I worked on the blogs team, using WordPress. Involved in dozens of projects, I created blogs and sites for soap operas, reality shows, news programs, journalists, auditorium programs, etc. My mission was creating themes, plugins, and widgets for different projects. Previously, the company has contracted external partners for creating his projects. I started on a new blog team (I was the third member). At the end of the year, we had more than 20 members. There were no more external partners working on projects because the sites and blogs were created and maintained by our team."
         image="/assets/images/exp-record.jpg"
       />
       <ExperiencesList.Item
@@ -95,7 +87,7 @@ module.exports = () => (
         subtitle="Grupo Ser Educacional"
         start="Oct, 2008"
         end="Feb, 2012"
-        description="As a back-end developer, I worked on some educational software inside of this company. With more than 100.000 students around the country, the educational group needed software to the handle library books and books reservations, control financial data, students make enrolment,  paying his monthly tuition, entrance exams, etc."
+        description="As a back-end developer, I worked on some educational software inside of this company. With more than 100.000 students around the country, the educational group needed software to handle library books and book reservations, control financial data, students make enrollment, paying his monthly tuition, entrance exams, etc."
         image="/assets/images/exp-ser-educacional.jpg"
       />
     </ExperiencesList.Wrapper>
