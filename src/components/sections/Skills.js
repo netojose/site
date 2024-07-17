@@ -13,10 +13,10 @@ module.exports = () => (
       <ExperiencesList.Item
         title="Programming/Markup/Stylesheet languages"
         description={[
-          "Javascript [ES5, ..., ESNext] (Browser and Node.js)",
+          "Javascript (Browser and Node.js)",
           "TypeScript",
           "PHP",
-          "Go",
+          "Python",
           "Dart",
           "CSS3",
           "XHTML",
@@ -50,47 +50,50 @@ module.exports = () => (
           "Panda CSS",
           "Styled components",
           "Emotion",
-          "Styletron",
+          "Sass",
           "Tailwind CSS",
         ]}
       />
       <ExperiencesList.Item
-        title="Mobile - Frameworks & Libraries"
-        description={["React Native", "Flutter"]}
-      />
-      <ExperiencesList.Item
         title="Back-end - Node.js frameworks & libraries"
         description={[
+          "NestJS",
           "Express",
-          "Puppeteer",
-          "Socket.IO",
           "TypeORM",
           "Prisma",
           "Sequelize",
           "TypeGraphQL",
-          "NestJS",
+          "Puppeteer",
           "Bull & BullMQ",
           "class-validator",
           "AdonisJs",
+          "Express",
+          "Socket.IO",
           "Ts.ED",
           "Next.js",
-          "After.js",
           "Gatsby",
           "Pug",
           "EJS",
-          "Swagger for Node.js",
+          "Swagger",
         ]}
       />
       <ExperiencesList.Item
         title="Back-end - PHP frameworks & libraries"
         description={[
           "Laravel",
-          "Laravel - Inertia",
           "CodeIgniter",
           "Slim Framework",
           "Twig",
           "Swagger for PHP",
         ]}
+      />
+      <ExperiencesList.Item
+        title="Back-end - Python frameworks & libraries"
+        description={["FastAPI"]}
+      />
+      <ExperiencesList.Item
+        title="Mobile - Frameworks & Libraries"
+        description={["React Native", "Flutter"]}
       />
       <ExperiencesList.Item
         title="Communication protocols (construction & consumption)"
@@ -128,25 +131,18 @@ module.exports = () => (
           "Cypress",
           "Jest",
           "React Testing Library",
+          "Vitest",
           "Enzyme",
           "PHPUnit",
         ]}
       />
       <ExperiencesList.Item
-        title="Dependency managers"
-        description={["Yarn", "pnpm", "Npm", "Composer", "Pub"]}
-      />
-      <ExperiencesList.Item
-        title="Module bundlers & Task runners"
-        description={["Vite", "Webpack", "Gulp"]}
+        title="Module bundlers"
+        description={["Vite", "Webpack"]}
       />
       <ExperiencesList.Item
         title="Version control"
-        description={["GIT", "SVN", "CVS"]}
-      />
-      <ExperiencesList.Item
-        title="Preprocessors"
-        description={["SASS", "Compass", "LESS"]}
+        description={["GIT", "SVN"]}
       />
       <ExperiencesList.Item
         title="Prototyping"
