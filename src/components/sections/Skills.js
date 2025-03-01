@@ -11,6 +11,10 @@ module.exports = () => (
   >
     <ExperiencesList.Wrapper>
       <ExperiencesList.Item
+        title="Artificial Intelligence"
+        description={["OpenAI", "Gemini", "Wit.ai", "Dify.AI"]}
+      />
+      <ExperiencesList.Item
         title="Programming/Markup/Stylesheet languages"
         description={[
           "Javascript (Browser and Node.js)",
@@ -109,6 +113,7 @@ module.exports = () => (
           "MongoDB",
           "MSSQL",
           "SQLite",
+          "Supabase",
         ]}
       />
       <ExperiencesList.Item
