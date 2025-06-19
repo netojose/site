@@ -28,7 +28,7 @@ module.exports = () => (
         }}
       >
         <img
-          src="/assets/images/me.jpg"
+          src={`/assets/images/me.jpg?v=${Date.now()}`}
           alt="José Neto"
           draggable="false"
           className={css({
